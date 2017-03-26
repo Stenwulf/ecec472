@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ekw47
+HostName                       xunil-03.coe.drexel.edu
+ProcessIdentifier              6424
+ProcessCreationTime_UTC        1489977176
+ProcessCreationTime_Readable   Sun Mar 19 22:32:56 2017 EDT
+AppIdentifier                  /opt/cadence/IC616/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/DREXEL/ekw47/ECEC472/MIPS_Processor/16Bit_Register/constraint/prop.cfg
+TimeEditLocked                 Mon Mar 20 03:38:52 2017 EDT

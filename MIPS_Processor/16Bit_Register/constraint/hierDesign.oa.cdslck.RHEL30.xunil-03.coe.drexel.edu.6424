@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ekw47
+HostName                       xunil-03.coe.drexel.edu
+ProcessIdentifier              6424
+ProcessCreationTime_UTC        1489977180
+ProcessCreationTime_Readable   Sun Mar 19 22:33:00 2017 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/DREXEL/ekw47/ECEC472/MIPS_Processor/16Bit_Register/constraint/hierDesign.oa.cdslck
+TimeEditLocked                 Mon Mar 20 03:38:52 2017 EDT
